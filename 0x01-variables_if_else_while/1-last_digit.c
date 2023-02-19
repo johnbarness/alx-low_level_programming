@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /*
- * main - Entry point of the code
+ * main - prints last digit of a number
  * Return: Always 0
 */
 int main(void)
